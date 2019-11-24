@@ -1,5 +1,5 @@
 FROM node:alpine
-MAINTAINER Chris Davis <cdavis@cadconsultants.org>
+MAINTAINER Chris A. Davis <cdavis@cadconsultants.org>
 
 # Create our application direcory
 RUN mkdir -p /usr/src/app
